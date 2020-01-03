@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "octokitをアップデートしました"
-date:   2020-01-03 01:06:28 +0900
+date:   2020-01-03 01:06:28
 ---
 
 [Jekyllを使い始めました]({{ "/2020/01/01/introduction-of-jekyll.html" | relative_url }}) でセットアップ時に

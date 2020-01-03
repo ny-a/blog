@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Progateを始めました"
-date:   2020-01-02 23:50:52 +0900
+date:   2020-01-02 14:50:52
 ---
 
 最近 Twitter で Progate という名前をよく見かけるので、 Go のレッスンを始めてみました。
