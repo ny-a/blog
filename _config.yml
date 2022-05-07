@@ -23,8 +23,8 @@ description: >-
   My study log of software development
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: nekoko_ny_a
-github_username:  ny_a
+twitter_username: nyaarch64
+github_username:  ny-a
 timezone: UTC
 
 # Build settings
